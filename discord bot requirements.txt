@@ -1,0 +1,1 @@
+register the discord bot on discord.com/developers/applications
